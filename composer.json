@@ -9,6 +9,10 @@
         {
             "type": "path",
             "url": "../laravel-nova"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ampeco/laravel-tags"
         }
     ],
     "homepage": "https://github.com/spatie/nova-tags-field",
@@ -23,7 +27,7 @@
     "require": {
         "php": ">=7.1.0",
         "laravel/nova": "*",
-        "spatie/laravel-tags": "^2.1"
+        "spatie/laravel-tags": "dev-dev-fork"
     },
     "require-dev": {
         "mockery/mockery": "^1.1",
