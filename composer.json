@@ -27,7 +27,7 @@
     "require": {
         "php": ">=7.1.0",
         "laravel/nova": "*",
-        "spatie/laravel-tags": "dev-dev-fork"
+        "spatie/laravel-tags": "dev-support/mariadb"
     },
     "require-dev": {
         "mockery/mockery": "^1.1",
