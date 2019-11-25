@@ -2,6 +2,22 @@
 
 All notable changes to `nova-tags-field` will be documented in this file
 
+## 2.3.1 - 2019-11-13
+
+- consistent styling (#68)
+
+## 2.3.0 - 2019-09-04
+
+- add support for Laravel 6
+
+## 2.2.1 - 2019-08-05
+
+- sort the tags by name
+
+## 2.2.0 - 2019-06-01
+
+- add `withLinkToTagResource` function
+
 ## 2.1.0 - 2019-04-10
 
 - select suggestion on arrowdown if there is exactly one suggestion available
